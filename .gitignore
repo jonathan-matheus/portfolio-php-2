@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# CSS build artifacts
+src/output.css
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PHPStorm/VSCode/IDE configs
+.idea/
+.vscode/
+
+# Composer vendor (caso use Composer futuramente)
+vendor/
+
+# Logs
+*.log
+
+# Ambiente
+.env
+
+# Cache
+.cache/
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+
+# Outros
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de build
+/dist/
+/build/
